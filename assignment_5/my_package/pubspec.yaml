@@ -1,0 +1,7 @@
+name: my_package
+version: 1.0.0
+description: A simple utility package
+homepage: https://example.com
+author: Your Name
+environment:
+  sdk: '>=2.12.0 <3.0.0'
